@@ -42,8 +42,16 @@
 .harness-flow .schema-plane { fill: #30241f; stroke: #e38a69; }
 .harness-flow .store-outline { fill: #1d3029; stroke: #a8d5b6; }
 .evidence-map { margin-inline: auto; }
-.evidence-map h3, .evidence-map figcaption { text-align: center; }
-.evidence-map figcaption { margin-inline: auto; }
+.evidence-map h3 { text-align: center; }
+.evidence-map figcaption {
+  max-width: none;
+  padding: 10px 14px;
+  border: 1px solid var(--line);
+  text-align: center;
+}
+@media (max-width: 650px) {
+  .evidence-map figcaption { min-width: 570px; }
+}
 
 .evidence-map .entity-boxes rect { fill: #333; stroke: #888; }
 .evidence-map .svg-text { fill: #fff; }
