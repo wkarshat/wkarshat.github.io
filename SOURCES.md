@@ -1,18 +1,13 @@
 # Content sources
 
-The site uses public information only. Repository ownership and fork status do not establish an employment relationship or sole authorship. Forks are explicitly labeled in the directory. Project descriptions summarize repository documentation, rather than independent product certifications.
+The site summarizes public professional information and project documentation. Repository ownership does not establish sole authorship or an employment relationship.
 
-- [GitHub profile](https://github.com/wkarshat): name, San Diego, Kinsys, LLM coding focus, current X handle `karshatwalter`.
-- [LinkedIn](https://www.linkedin.com/in/wkarshat/): professional identity. Public access did not expose a complete employment history; no job titles or dates were inferred.
-- [Personal public repositories](https://github.com/wkarshat?tab=repositories) and [fear-ai public repositories](https://github.com/orgs/fear-ai/repositories): public pinned repository selection, descriptions, and ownership. Private repositories are excluded.
-- [Codess](https://github.com/fear-ai/codess): session discovery, normalization, search, vendor evidence, supported harnesses.
-- [MCP configuration GPT-5 implementation](https://github.com/fear-ai/mcpconf_gpt5) and [registry implementation](https://github.com/fear-ai/mcpconf_cl): configuration, validation, conversion.
-- [uniblake](https://github.com/wkarshat/uniblake) and [uniblake-rs](https://github.com/wkarshat/uniblake-rs): cross-platform C and Rust BLAKE2b libraries and verification approach. Performance figures are intentionally not reproduced.
-- [Skip](https://github.com/fear-ai/skip): schema interoperability research.
-- [XYO Android](https://github.com/wkarshat/xyo-android), [Node](https://github.com/wkarshat/xyo-node), [Solidity](https://github.com/wkarshat/xyo-solidity), [explorer](https://github.com/wkarshat/scan.xyo.network): multi-component repository set. No claim of sole platform authorship.
-- [KIN Systems](https://kinsys.com/): business link and technology/design/deployment context.
-- [Edify CoLabs proposal](https://deep-projects.ai/proposal/ai-enabled-full-value-audit-and-dashboard-for-sustainable-exponential-organisational-growth/): names Walter Karshat in AI development and operations/sysadmin. Presented as a proposal collaboration, without claiming sole architecture ownership or completed delivery.
-- [Fear AI publications](https://github.com/fear-ai/Pub): scope of research and commentary.
-- [Devpost](https://devpost.com/wkarshat) and [Keybase](https://keybase.io/wkarshat): identity-linked development and social profiles.
+- [GitHub profile](https://github.com/wkarshat) and [LinkedIn](https://www.linkedin.com/in/wkarshat/): Walter Karshat’s identity and LLM coding focus. LinkedIn did not expose a complete employment history; none is inferred.
+- [Codess](https://github.com/fear-ai/codess): session discovery, normalization, search, preserved vendor evidence, and supported coding harnesses.
+- [uniblake](https://github.com/wkarshat/uniblake): portable C BLAKE2b, shared-prefix hashing, caller-controlled scheduling, and conformance checks.
+- [Fear AI publications](https://fear-ai.github.io/): tools, research, and commentary on AI, work, and infrastructure.
+- [GitHub Pages hosting information](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection): host-maintained security IP logs, disclosed on the Privacy page.
 
-Search also found older X links under `wkarshat`, Reddit proofs, and ENS/Lens aggregators. The prominent X link follows the current GitHub profile. Wallet addresses, personal email addresses, and uncertain or stale social accounts were omitted.
+The site has no repository directory, analytics, forms, persistent browser storage, or third-party scripts. Drafting diagrams are conceptual illustrations, not literal measured system traces.
+
+The Codess relationship diagram draws on [CoSchema](https://github.com/fear-ai/codess/blob/main/CoSchema.md). [Skip](https://github.com/fear-ai/skip) provides context for the related schema research.

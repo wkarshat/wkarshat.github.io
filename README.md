@@ -1,9 +1,13 @@
-# Walter Karshat
+# Walter Karshat portfolio
 
-Personal portfolio at https://wkarshat.github.io/.
+GitHub Pages serves this static site from the root of the main branch.
 
-A dependency-free static site. GitHub Pages serves the root of `main`.
+Preview locally with `python3 -m http.server 8080` and open <http://localhost:8080/>.
 
-Preview with `python3 -m http.server 8080`, then visit http://localhost:8080.
+- `index.html` holds the portfolio copy and diagrams.
+- `style.css` defines the layout and palette.
+- `assets/mark.svg` is the site icon.
+- `privacy.html`, `terms.html`, and `SOURCES.md` contain the visitor policies and references.
+- `codess.html`, `uniblake.html`, and `fear-ai.html` redirect to their sections on the home page.
 
-Edit `index.html`, `style.css`, and `script.js` to update the site. `assets/pinned.json` contains public pinned repositories from GitHub. Refresh it with the GitHub GraphQL pinnedItems query, filtering out private repositories and placing wkarshat repositories first. See [SOURCES.md](SOURCES.md) for attribution and editorial scope.
+Keep drafts and design studies in the private Doc archive. To update the site, edit the HTML and CSS, then preview the result before publishing.
